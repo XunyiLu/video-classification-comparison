@@ -12,9 +12,13 @@ Recommendations for future work and potential limitations of the study
 
 ## Requirements:
 GPU with at least 8GB of VRAM
+
 Python 3.x
+
 TensorFlow 2.x
+
 Keras
+
 NumPy
 
 ## Installation:
