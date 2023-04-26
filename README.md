@@ -20,7 +20,7 @@ NumPy
 ## Installation:
 1. Clone the repository from Github
 2. Install the required packages using pip or conda
-3. Download the dataset and store it in the data folder
+3. Download the dataset and store it in the 'final_video_id_list.csv'
 4. Run the jupyter notebook to train and test the models
 
 ## Usage:
