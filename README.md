@@ -18,11 +18,10 @@ Keras
 NumPy
 
 ## Installation:
-1. Download all the videos to gdrive
-2. Clone the repository from Github
-3. Install the required packages using pip or conda
-4. Download the dataset and store it in the data folder
-5. Run the jupyter notebook to train and test the models
+1. Clone the repository from Github
+2. Install the required packages using pip or conda
+3. Download the dataset and store it in the data folder
+4. Run the jupyter notebook to train and test the models
 
 ## Usage:
 1. Open the jupyter notebook
